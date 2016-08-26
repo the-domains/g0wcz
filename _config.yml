@@ -14,5 +14,9 @@ layout_spectrum: 0.4935829530004412
 author:
   name: ''
 name: de G0̸WCZ
+navigation:
+  - name: QRZ.com page
+    url: 'https://www.qrz.com/lookup/G0WCZ'
+    type: external
 title: de G0̸WCZ
 description: ham adventures
